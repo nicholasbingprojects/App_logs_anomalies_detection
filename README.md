@@ -1,2 +1,2 @@
 # App_logs_anomalies_detection
-Application Logs and Anomalies Detection Model
+App Logs Anomalies Detection is a tool that identifies unusual patterns in application log files using machine learning. It enables real-time monitoring, detects anomalies, and provides alerts, helping developers troubleshoot issues and maintain application health efficiently. With easy integration and intuitive visualizations, it enhances system reliability and user experience.
